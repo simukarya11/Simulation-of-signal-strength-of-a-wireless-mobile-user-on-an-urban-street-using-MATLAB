@@ -1,0 +1,9 @@
+-->>The 3 files path1, path2 and path3 are matlab codes for different files.
+-->> To get to know more about project, please read the pdf
+
+
+-->> The basics of this project are--
+
+• Evaluated the strength of the signal received by a mobile user on a street by MATLAB simulation.
+• Used the values for free space loss (Lf), loss due to diffraction (|Fv|), excess path loss (Li) and flat edge model for path loss (Ln), which are encountered by the electromagnetic wave when it progresses in air from source to destination.
+• Plotted graphs for the signal strength with respect to distance on the street using to evaluate connectivity using MATLAB.
